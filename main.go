@@ -5,5 +5,9 @@ func Hello() string {
 }
 
 func Hello2() string {
-	return "Hello, bla2."
+	return "Hello, bla1."
+}
+
+func NewThingy() string {
+	return "Hello, bla 1 from branch v1."
 }
